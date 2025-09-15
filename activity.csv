@@ -1,0 +1,561 @@
+id,user_id,date,movie_name,finished
+1,2,6/22/2023,The Shawshank Redemption,1
+2,1,7/23/2023,Shrek,0
+3,4,7/27/2023,Fight Club,1
+4,1,8/23/2023,Top Gun: Maverick,0
+5,4,8/24/2023,Oppenheimer,0
+6,4,8/27/2023,The Matrix,1
+7,5,9/7/2023,Top Gun: Maverick,1
+8,4,9/10/2023,The Shawshank Redemption,1
+9,1,9/12/2023,Turning Red,1
+10,1,9/14/2023,Spider-Man: No Way Home,1
+11,5,9/25/2023,Frozen,1
+12,5,9/25/2023,Nope,1
+13,5,9/30/2023,Oppenheimer,1
+14,1,10/3/2023,The Batman,1
+15,4,10/4/2023,Black Panther,1
+16,3,10/5/2023,The Grand Budapest Hotel,0
+17,1,10/7/2023,Interstellar,1
+18,1,10/8/2023,Dune,1
+19,5,10/13/2023,Arrival,0
+20,2,11/1/2023,Get Out,0
+21,4,11/5/2023,Arrival,1
+22,1,11/6/2023,Turning Red,1
+23,3,11/10/2023,Oppenheimer,1
+24,2,11/11/2023,The Matrix,1
+25,1,11/18/2023,Frozen,1
+26,4,11/23/2023,Us,1
+27,3,11/24/2023,Shrek,1
+28,5,11/29/2023,Avengers: Endgame,1
+29,4,12/5/2023,La La Land,1
+30,6,12/5/2023,WALL-E,0
+31,1,12/9/2023,Bohemian Rhapsody,1
+32,4,12/10/2023,Up,1
+33,5,12/15/2023,Toy Story,1
+34,6,12/18/2023,Inception,1
+35,3,12/27/2023,Dune,0
+36,3,12/28/2023,Big Hero 6,1
+37,2,12/28/2023,Avengers: Endgame,0
+38,5,1/18/2024,Gravity,1
+39,8,1/24/2024,Arrival,1
+40,5,1/31/2024,Turning Red,1
+41,8,1/31/2024,Us,1
+42,8,1/31/2024,The Lord of the Rings,1
+43,6,2/4/2024,The Godfather,1
+44,9,2/13/2024,Moonlight,0
+45,1,2/13/2024,Avengers: Endgame,1
+46,2,2/15/2024,Luca,1
+47,8,2/15/2024,Us,1
+48,9,2/25/2024,Big Hero 6,1
+49,6,3/1/2024,Shrek,1
+50,4,3/4/2024,The Grand Budapest Hotel,0
+51,4,3/5/2024,The Social Network,1
+52,4,3/7/2024,Gravity,1
+53,8,3/11/2024,Her,0
+54,1,3/13/2024,Moonlight,1
+55,4,3/18/2024,Whiplash,1
+56,5,3/21/2024,Luca,1
+57,6,3/24/2024,Get Out,1
+58,4,3/27/2024,Arrival,0
+59,2,3/30/2024,The Shawshank Redemption,1
+60,1,4/3/2024,Fight Club,1
+61,4,4/5/2024,Forrest Gump,1
+62,1,4/7/2024,A Star is Born,1
+63,3,4/8/2024,Top Gun: Maverick,1
+64,6,4/11/2024,Fight Club,1
+65,12,4/11/2024,Get Out,1
+66,8,4/11/2024,Dune,1
+67,8,4/14/2024,Encanto,0
+68,4,4/16/2024,The Matrix,1
+69,4,4/16/2024,Bohemian Rhapsody,1
+70,5,4/21/2024,Nope,1
+71,4,4/22/2024,Gravity,1
+72,12,4/24/2024,The Wolf of Wall Street,1
+73,12,4/26/2024,Avengers: Endgame,1
+74,5,4/27/2024,Joker,0
+75,5,4/27/2024,The Grand Budapest Hotel,1
+76,10,5/1/2024,Whiplash,1
+77,8,5/3/2024,The Grand Budapest Hotel,1
+78,12,5/6/2024,The Wolf of Wall Street,0
+79,4,5/7/2024,Moana,0
+80,2,5/7/2024,Shrek,1
+81,1,5/7/2024,Black Panther,1
+82,8,5/7/2024,Bohemian Rhapsody,1
+83,12,5/15/2024,Moana,0
+84,5,5/17/2024,Her,1
+85,5,5/18/2024,Gravity,1
+86,4,5/20/2024,Mad Max: Fury Road,1
+87,1,5/22/2024,Us,0
+88,9,5/25/2024,Titanic,1
+89,1,5/26/2024,Up,1
+90,12,5/28/2024,Dune,1
+91,11,5/30/2024,The Matrix,0
+92,12,5/31/2024,Moonlight,1
+93,8,6/4/2024,Finding Nemo,1
+94,3,6/5/2024,Spider-Man: No Way Home,1
+95,9,6/6/2024,Get Out,0
+96,4,6/10/2024,Fight Club,1
+97,8,6/14/2024,Whiplash,1
+98,9,6/17/2024,Moonlight,1
+99,2,6/17/2024,Big Hero 6,0
+100,12,6/19/2024,Toy Story,0
+101,3,6/20/2024,La La Land,0
+102,4,6/22/2024,Forrest Gump,1
+103,4,6/26/2024,1917,0
+104,10,7/6/2024,The Shape of Water,0
+105,6,7/7/2024,Inception,1
+106,12,7/9/2024,Coco,1
+107,4,7/16/2024,Interstellar,1
+108,4,7/17/2024,Top Gun: Maverick,0
+109,9,7/18/2024,Mad Max: Fury Road,0
+110,12,7/18/2024,Top Gun: Maverick,1
+111,1,7/18/2024,Mad Max: Fury Road,1
+112,5,7/24/2024,Avengers: Endgame,1
+113,12,7/25/2024,Coco,1
+114,12,7/27/2024,Minari,1
+115,12,7/31/2024,The Godfather,0
+116,1,8/2/2024,The Grand Budapest Hotel,1
+117,10,8/8/2024,Gravity,1
+118,8,8/13/2024,Encanto,0
+119,6,8/14/2024,La La Land,1
+120,8,8/19/2024,The Social Network,1
+121,12,8/22/2024,Shrek,0
+122,4,8/24/2024,Finding Nemo,0
+123,8,8/24/2024,1917,1
+124,8,8/24/2024,1917,0
+125,10,8/26/2024,Inside Out,1
+126,7,8/28/2024,Avengers: Endgame,1
+127,1,8/28/2024,Pulp Fiction,1
+128,12,8/30/2024,Inside Out,1
+129,17,9/1/2024,Forrest Gump,1
+130,17,9/3/2024,Spider-Man: No Way Home,1
+131,8,9/4/2024,The Dark Knight,1
+132,8,9/8/2024,Top Gun: Maverick,1
+133,15,9/10/2024,The Shawshank Redemption,0
+134,5,9/11/2024,Encanto,1
+135,7,9/15/2024,Soul,1
+136,13,9/19/2024,Bohemian Rhapsody,1
+137,6,9/19/2024,Get Out,1
+138,1,9/19/2024,Black Panther,1
+139,12,9/20/2024,Joker,1
+140,1,9/20/2024,Nope,1
+141,15,9/21/2024,Dune,1
+142,17,9/24/2024,Pulp Fiction,1
+143,5,9/26/2024,Her,0
+144,4,9/28/2024,Arrival,1
+145,14,9/29/2024,Spider-Man: No Way Home,1
+146,18,10/1/2024,Fight Club,1
+147,8,10/4/2024,Shrek,1
+148,15,10/4/2024,The Shawshank Redemption,1
+149,17,10/5/2024,The Shawshank Redemption,1
+150,18,10/6/2024,Interstellar,1
+151,2,10/10/2024,Fight Club,1
+152,15,10/10/2024,Titanic,0
+153,16,10/12/2024,Everything Everywhere All At Once,1
+154,17,10/15/2024,Luca,1
+155,15,10/17/2024,Avengers: Endgame,0
+156,4,10/18/2024,The Wolf of Wall Street,1
+157,8,10/18/2024,Parasite,1
+158,12,10/19/2024,The Matrix,0
+159,16,10/25/2024,Big Hero 6,0
+160,12,10/26/2024,Coco,1
+161,18,10/26/2024,1917,1
+162,12,10/27/2024,Fight Club,1
+163,18,10/27/2024,The Godfather,1
+164,15,10/27/2024,Inside Out,1
+165,17,10/29/2024,Up,1
+166,12,10/29/2024,Zootopia,1
+167,15,10/29/2024,Pulp Fiction,0
+168,5,10/30/2024,The Dark Knight,1
+169,18,10/30/2024,Moonlight,1
+170,12,11/1/2024,The Matrix,1
+171,18,11/1/2024,Top Gun: Maverick,1
+172,14,11/2/2024,Arrival,1
+173,2,11/4/2024,Mad Max: Fury Road,1
+174,14,11/7/2024,Fight Club,1
+175,8,11/7/2024,Finding Nemo,1
+176,12,11/8/2024,Parasite,1
+177,16,11/9/2024,Moonlight,1
+178,18,11/11/2024,The Social Network,0
+179,9,11/12/2024,Gladiator,1
+180,18,11/12/2024,Nope,1
+181,1,11/13/2024,Luca,1
+182,18,11/13/2024,Nope,1
+183,15,11/13/2024,Her,1
+184,9,11/18/2024,The Shawshank Redemption,1
+185,6,11/18/2024,Moonlight,0
+186,16,11/18/2024,Forrest Gump,1
+187,5,11/20/2024,Parasite,1
+188,16,11/20/2024,Turning Red,1
+189,12,11/21/2024,A Star is Born,1
+190,12,11/21/2024,Parasite,1
+191,12,11/22/2024,Joker,0
+192,10,11/22/2024,The Godfather,1
+193,12,11/23/2024,Minari,1
+194,16,11/24/2024,Arrival,1
+195,3,11/26/2024,Her,1
+196,20,11/27/2024,Luca,1
+197,20,11/27/2024,The Wolf of Wall Street,1
+198,16,11/28/2024,Bohemian Rhapsody,1
+199,12,11/29/2024,A Star is Born,1
+200,5,11/30/2024,Joker,1
+201,12,12/1/2024,The Shawshank Redemption,1
+202,5,12/2/2024,Her,1
+203,18,12/2/2024,Mad Max: Fury Road,0
+204,18,12/2/2024,Turning Red,1
+205,19,12/4/2024,The Godfather,0
+206,12,12/4/2024,Coco,1
+207,18,12/4/2024,The Wolf of Wall Street,1
+208,17,12/6/2024,Finding Nemo,1
+209,8,12/7/2024,WALL-E,1
+210,5,12/8/2024,The Batman,1
+211,4,12/9/2024,1917,1
+212,8,12/9/2024,The Social Network,1
+213,19,12/10/2024,Titanic,0
+214,8,12/10/2024,Toy Story,0
+215,4,12/12/2024,Up,1
+216,16,12/13/2024,The Revenant,1
+217,20,12/13/2024,Black Panther,1
+218,12,12/14/2024,Everything Everywhere All At Once,1
+219,4,12/15/2024,Encanto,1
+220,20,12/15/2024,Finding Nemo,1
+221,19,12/16/2024,Moana,0
+222,12,12/16/2024,La La Land,1
+223,14,12/16/2024,The Dark Knight,0
+224,17,12/17/2024,Big Hero 6,1
+225,20,12/17/2024,Encanto,0
+226,12,12/17/2024,Fight Club,1
+227,17,12/19/2024,Dune,1
+228,9,12/20/2024,Whiplash,1
+229,9,12/20/2024,Titanic,1
+230,19,12/21/2024,The Social Network,1
+231,19,12/22/2024,Joker,1
+232,20,12/22/2024,Big Hero 6,1
+233,17,12/24/2024,Spider-Man: No Way Home,1
+234,19,12/24/2024,Gladiator,1
+235,15,12/24/2024,Interstellar,1
+236,4,12/26/2024,Bohemian Rhapsody,1
+237,16,12/26/2024,The Batman,1
+238,18,12/26/2024,The Godfather,0
+239,18,12/26/2024,Nope,0
+240,16,12/27/2024,Mad Max: Fury Road,1
+241,20,12/28/2024,Titanic,0
+242,1,12/28/2024,Coco,1
+243,18,12/28/2024,Moonlight,1
+244,16,12/29/2024,Parasite,1
+245,16,12/29/2024,Everything Everywhere All At Once,1
+246,5,12/30/2024,The Matrix,1
+247,16,12/30/2024,Everything Everywhere All At Once,1
+248,20,12/30/2024,Coco,1
+249,4,1/1/2025,Mad Max: Fury Road,1
+250,6,1/1/2025,Titanic,1
+251,20,1/2/2025,Up,1
+252,17,1/3/2025,The Shape of Water,0
+253,17,1/3/2025,Nope,0
+254,20,1/3/2025,Luca,1
+255,21,1/3/2025,Up,1
+256,10,1/3/2025,The Revenant,1
+257,4,1/4/2025,Top Gun: Maverick,1
+258,19,1/4/2025,Inception,1
+259,18,1/4/2025,Her,1
+260,5,1/5/2025,WALL-E,0
+261,9,1/5/2025,Nope,1
+262,18,1/5/2025,Pulp Fiction,0
+263,16,1/6/2025,Top Gun: Maverick,1
+264,21,1/6/2025,The Revenant,1
+265,20,1/8/2025,Avengers: Endgame,0
+266,4,1/9/2025,Turning Red,1
+267,20,1/9/2025,Oppenheimer,0
+268,5,1/10/2025,Dune,0
+269,4,1/10/2025,The Dark Knight,0
+270,20,1/11/2025,Avengers: Endgame,1
+271,21,1/11/2025,Toy Story,1
+272,19,1/12/2025,Zootopia,0
+273,20,1/12/2025,La La Land,1
+274,20,1/13/2025,The Wolf of Wall Street,0
+275,9,1/14/2025,WALL-E,0
+276,22,1/14/2025,Knives Out,1
+277,20,1/14/2025,Fight Club,1
+278,14,1/15/2025,Coco,0
+279,4,1/16/2025,Her,1
+280,12,1/16/2025,Titanic,1
+281,18,1/16/2025,Dune,1
+282,19,1/17/2025,Everything Everywhere All At Once,1
+283,12,1/17/2025,Whiplash,1
+284,13,1/18/2025,Inception,1
+285,22,1/20/2025,Coco,0
+286,19,1/21/2025,Whiplash,1
+287,22,1/21/2025,Minari,1
+288,22,1/22/2025,Her,1
+289,16,1/22/2025,Shrek,0
+290,20,1/22/2025,Pulp Fiction,1
+291,21,1/22/2025,Shrek,1
+292,22,1/23/2025,A Star is Born,1
+293,21,1/23/2025,The Grand Budapest Hotel,0
+294,22,1/24/2025,Mad Max: Fury Road,1
+295,15,1/24/2025,Inception,1
+296,5,1/25/2025,The Matrix,1
+297,17,1/25/2025,Moana,1
+298,21,1/25/2025,La La Land,1
+299,21,1/26/2025,Interstellar,1
+300,4,1/27/2025,The Dark Knight,1
+301,22,1/27/2025,Bohemian Rhapsody,1
+302,18,1/27/2025,A Star is Born,1
+303,13,1/28/2025,The Shape of Water,1
+304,20,1/28/2025,The Shape of Water,1
+305,18,1/28/2025,Black Panther,0
+306,18,1/28/2025,Moana,1
+307,11,1/29/2025,Avengers: Endgame,1
+308,23,1/29/2025,Knives Out,0
+309,5,1/30/2025,Bohemian Rhapsody,0
+310,1,1/30/2025,The Lord of the Rings,1
+311,4,1/31/2025,Everything Everywhere All At Once,1
+312,23,1/31/2025,Gladiator,1
+313,22,1/31/2025,The Shawshank Redemption,1
+314,20,1/31/2025,Fight Club,0
+315,15,1/31/2025,Top Gun: Maverick,1
+316,9,2/1/2025,Whiplash,1
+317,21,2/1/2025,Shrek,0
+318,24,2/5/2025,Dune,1
+319,12,2/5/2025,The Revenant,1
+320,23,2/6/2025,Zootopia,0
+321,21,2/6/2025,Zootopia,1
+322,21,2/6/2025,Gladiator,0
+323,23,2/7/2025,Oppenheimer,0
+324,22,2/8/2025,Oppenheimer,0
+325,16,2/8/2025,Gladiator,1
+326,21,2/8/2025,Moana,1
+327,14,2/8/2025,Frozen,1
+328,23,2/9/2025,Encanto,1
+329,21,2/9/2025,Minari,1
+330,21,2/9/2025,Luca,1
+331,17,2/10/2025,Top Gun: Maverick,1
+332,17,2/10/2025,Luca,0
+333,20,2/10/2025,Fight Club,0
+334,21,2/10/2025,Titanic,1
+335,18,2/10/2025,Encanto,0
+336,5,2/11/2025,Fight Club,1
+337,16,2/11/2025,Us,1
+338,20,2/11/2025,Finding Nemo,1
+339,5,2/12/2025,Knives Out,1
+340,23,2/12/2025,Minari,1
+341,23,2/13/2025,Nope,1
+342,21,2/15/2025,The Dark Knight,1
+343,15,2/15/2025,Moonlight,1
+344,16,2/16/2025,Arrival,1
+345,23,2/18/2025,Minari,1
+346,22,2/18/2025,La La Land,1
+347,19,2/19/2025,Moonlight,1
+348,19,2/20/2025,Everything Everywhere All At Once,1
+349,22,2/20/2025,The Wolf of Wall Street,0
+350,16,2/20/2025,Shrek,0
+351,12,2/20/2025,Luca,1
+352,14,2/20/2025,Big Hero 6,1
+353,24,2/21/2025,Moonlight,1
+354,8,2/21/2025,Fight Club,1
+355,15,2/21/2025,Coco,1
+356,22,2/22/2025,The Shawshank Redemption,0
+357,24,2/23/2025,Arrival,1
+358,14,2/23/2025,Nope,1
+359,22,2/24/2025,Oppenheimer,1
+360,21,2/24/2025,WALL-E,1
+361,21,2/24/2025,Nope,1
+362,18,2/24/2025,The Grand Budapest Hotel,1
+363,13,2/26/2025,Gravity,1
+364,20,2/26/2025,Joker,0
+365,16,2/27/2025,Forrest Gump,0
+366,16,2/27/2025,Dune,1
+367,19,2/28/2025,Moana,1
+368,15,2/28/2025,Big Hero 6,1
+369,23,3/1/2025,A Star is Born,0
+370,20,3/1/2025,Inception,0
+371,12,3/2/2025,Finding Nemo,1
+372,20,3/3/2025,Toy Story,1
+373,12,3/3/2025,Arrival,1
+374,12,3/3/2025,Knives Out,1
+375,21,3/4/2025,The Godfather,1
+376,23,3/5/2025,Forrest Gump,1
+377,9,3/5/2025,Finding Nemo,0
+378,24,3/5/2025,Big Hero 6,1
+379,22,3/5/2025,Shrek,1
+380,22,3/5/2025,Turning Red,0
+381,12,3/5/2025,Forrest Gump,0
+382,16,3/6/2025,The Grand Budapest Hotel,1
+383,14,3/6/2025,Mad Max: Fury Road,1
+384,8,3/6/2025,La La Land,1
+385,21,3/7/2025,Frozen,1
+386,21,3/7/2025,Knives Out,1
+387,18,3/7/2025,The Revenant,1
+388,15,3/7/2025,1917,1
+389,21,3/8/2025,Oppenheimer,1
+390,1,3/8/2025,Finding Nemo,1
+391,10,3/8/2025,Knives Out,1
+392,23,3/9/2025,A Star is Born,0
+393,20,3/9/2025,Luca,0
+394,12,3/9/2025,Interstellar,1
+395,21,3/9/2025,Coco,1
+396,17,3/10/2025,Top Gun: Maverick,0
+397,23,3/10/2025,The Social Network,1
+398,18,3/10/2025,Luca,1
+399,19,3/11/2025,Inside Out,0
+400,22,3/11/2025,Bohemian Rhapsody,1
+401,12,3/11/2025,Forrest Gump,1
+402,18,3/13/2025,Soul,1
+403,5,3/14/2025,Bohemian Rhapsody,1
+404,22,3/14/2025,Everything Everywhere All At Once,1
+405,1,3/14/2025,Nope,1
+406,24,3/15/2025,Bohemian Rhapsody,1
+407,18,3/15/2025,Dune,1
+408,4,3/16/2025,Barbie,1
+409,4,3/18/2025,Titanic,1
+410,22,3/18/2025,Titanic,0
+411,22,3/18/2025,Forrest Gump,1
+412,21,3/18/2025,Up,1
+413,1,3/18/2025,Black Panther,0
+414,22,3/19/2025,The Wolf of Wall Street,1
+415,22,3/19/2025,The Godfather,1
+416,1,3/20/2025,Knives Out,1
+417,17,3/21/2025,The Grand Budapest Hotel,1
+418,24,3/21/2025,Coco,1
+419,4,3/22/2025,Black Panther,0
+420,23,3/22/2025,La La Land,1
+421,24,3/22/2025,Luca,1
+422,15,3/23/2025,Moonlight,1
+423,22,3/24/2025,Us,1
+424,2,3/24/2025,Mad Max: Fury Road,1
+425,24,3/25/2025,Avengers: Endgame,1
+426,20,3/25/2025,Shrek,1
+427,23,3/26/2025,Fight Club,1
+428,24,3/26/2025,Encanto,1
+429,6,3/26/2025,Moana,1
+430,21,3/26/2025,Toy Story,1
+431,1,3/26/2025,Her,1
+432,6,3/27/2025,The Revenant,1
+433,20,3/27/2025,Get Out,0
+434,18,3/27/2025,The Lord of the Rings,1
+435,19,3/28/2025,The Wolf of Wall Street,1
+436,19,3/28/2025,WALL-E,1
+437,24,3/28/2025,Oppenheimer,1
+438,9,3/29/2025,Avengers: Endgame,1
+439,22,3/29/2025,Encanto,1
+440,18,3/29/2025,The Revenant,1
+441,17,3/30/2025,Everything Everywhere All At Once,1
+442,19,3/30/2025,The Godfather,0
+443,16,3/30/2025,The Godfather,0
+444,9,3/31/2025,Forrest Gump,1
+445,24,3/31/2025,Big Hero 6,1
+446,3,3/31/2025,Nope,1
+447,20,4/3/2025,Bohemian Rhapsody,0
+448,22,4/4/2025,Zootopia,1
+449,18,4/4/2025,Parasite,1
+450,18,4/4/2025,Gravity,1
+451,22,4/5/2025,Barbie,1
+452,8,4/5/2025,The Dark Knight,1
+453,17,4/6/2025,The Batman,1
+454,23,4/6/2025,Turning Red,1
+455,23,4/6/2025,The Shape of Water,0
+456,25,4/6/2025,Turning Red,0
+457,25,4/7/2025,Spider-Man: No Way Home,1
+458,12,4/7/2025,Avengers: Endgame,1
+459,21,4/7/2025,Whiplash,1
+460,21,4/7/2025,The Lord of the Rings,1
+461,25,4/8/2025,Us,1
+462,25,4/8/2025,Dune,1
+463,22,4/8/2025,Big Hero 6,1
+464,25,4/9/2025,Big Hero 6,1
+465,12,4/9/2025,Everything Everywhere All At Once,1
+466,2,4/9/2025,The Revenant,1
+467,21,4/10/2025,Avengers: Endgame,1
+468,17,4/11/2025,The Shawshank Redemption,1
+469,9,4/11/2025,Moonlight,1
+470,25,4/12/2025,Us,1
+471,25,4/12/2025,Inside Out,0
+472,17,4/13/2025,Whiplash,1
+473,25,4/13/2025,The Godfather,1
+474,8,4/13/2025,WALL-E,0
+475,23,4/14/2025,Inception,1
+476,2,4/14/2025,Fight Club,1
+477,8,4/14/2025,Big Hero 6,1
+478,20,4/15/2025,Nope,1
+479,18,4/15/2025,Gravity,1
+480,14,4/15/2025,Frozen,1
+481,16,4/17/2025,Arrival,1
+482,23,4/18/2025,Us,1
+483,15,4/18/2025,Toy Story,0
+484,24,4/19/2025,Us,1
+485,20,4/19/2025,Arrival,1
+486,21,4/19/2025,The Batman,1
+487,21,4/19/2025,The Social Network,0
+488,12,4/20/2025,Everything Everywhere All At Once,1
+489,23,4/21/2025,The Revenant,1
+490,22,4/21/2025,The Shawshank Redemption,0
+491,22,4/22/2025,WALL-E,1
+492,22,4/22/2025,Whiplash,1
+493,22,4/23/2025,Mad Max: Fury Road,1
+494,21,4/23/2025,The Dark Knight,1
+495,20,4/24/2025,Interstellar,0
+496,25,4/25/2025,Frozen,1
+497,24,4/25/2025,Encanto,1
+498,2,4/25/2025,Big Hero 6,1
+499,8,4/25/2025,Whiplash,1
+500,15,4/25/2025,Us,1
+501,23,4/26/2025,Minari,1
+502,25,4/26/2025,1917,1
+503,25,4/26/2025,Encanto,1
+504,21,4/26/2025,Inception,1
+505,24,4/27/2025,The Batman,1
+506,23,4/28/2025,Gladiator,0
+507,23,4/28/2025,The Matrix,1
+508,23,4/28/2025,Soul,1
+509,25,4/28/2025,1917,1
+510,25,4/28/2025,The Lord of the Rings,1
+511,22,4/28/2025,A Star is Born,0
+512,14,4/28/2025,Her,1
+513,22,4/29/2025,Fight Club,1
+514,25,4/30/2025,WALL-E,0
+515,16,4/30/2025,Minari,1
+516,16,4/30/2025,Parasite,1
+517,2,5/1/2025,Fight Club,1
+518,18,5/1/2025,Barbie,1
+519,16,5/2/2025,Up,0
+520,16,5/2/2025,Parasite,0
+521,20,5/2/2025,Fight Club,1
+522,14,5/2/2025,Titanic,1
+523,15,5/2/2025,Finding Nemo,0
+524,25,5/3/2025,Whiplash,1
+525,18,5/3/2025,Mad Max: Fury Road,1
+526,14,5/3/2025,Whiplash,1
+527,23,5/4/2025,Mad Max: Fury Road,1
+528,25,5/4/2025,Minari,1
+529,24,5/4/2025,Pulp Fiction,1
+530,22,5/4/2025,Finding Nemo,1
+531,22,5/5/2025,Everything Everywhere All At Once,1
+532,15,5/5/2025,Forrest Gump,1
+533,25,5/6/2025,Dune,1
+534,24,5/6/2025,Inception,1
+535,21,5/6/2025,The Wolf of Wall Street,1
+536,19,5/7/2025,The Lord of the Rings,1
+537,25,5/7/2025,Her,0
+538,25,5/7/2025,Minari,1
+539,25,5/8/2025,Pulp Fiction,1
+540,12,5/8/2025,Inside Out,1
+541,4,5/9/2025,Avengers: Endgame,1
+542,22,5/9/2025,Joker,1
+543,25,5/10/2025,Bohemian Rhapsody,1
+544,14,5/10/2025,Parasite,1
+545,17,5/11/2025,Big Hero 6,1
+546,17,5/11/2025,Shrek,1
+547,19,5/11/2025,Inception,1
+548,20,5/11/2025,Get Out,0
+549,25,5/12/2025,Avengers: Endgame,0
+550,22,5/13/2025,Big Hero 6,1
+551,21,5/13/2025,The Lord of the Rings,0
+552,21,5/13/2025,Top Gun: Maverick,0
+553,19,5/14/2025,Coco,1
+554,25,5/14/2025,Barbie,0
+555,16,5/14/2025,The Matrix,0
+556,20,5/14/2025,Coco,0
+557,21,5/14/2025,Forrest Gump,1
+558,13,5/16/2025,Soul,1
+559,24,5/16/2025,The Social Network,1
+560,18,5/16/2025,Fight Club,1
